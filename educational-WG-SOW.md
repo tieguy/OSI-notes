@@ -5,7 +5,9 @@ OSI would like to charter a working group to address this gap, in order to fulfi
 
 ## Initial Group Members
 Chair of Outreach and Learn Committee
+
 **AUTHORS - TBD**
+
 **OSI REPS - TBD**
 
 ## Deliverables
