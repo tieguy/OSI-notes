@@ -4,11 +4,9 @@ Mainstream management education is only superficially engaging with the evolutio
 OSI would like to charter a working group to address this gap, in order to fulfill its mission by helping educate the public, and management of technology organizations, about the benefits of open source. 
 
 ## Initial Group Members
-Chair of Outreach and Learn Committee
-
-**AUTHORS - TBD**
-
-**OSI REPS - TBD**
+* Chair of Outreach and Learn Committee
+* **AUTHORS - TBD**
+* **OSI REPS - TBD**
 
 ## Deliverables
 TBD
@@ -18,6 +16,7 @@ TBD
 [inc. start dates,target completion dates]
 
 ## Necessary Resources
-Wiki space
-Budget [TBD]
+* Wiki space
+* Budget [TBD]
 
+## Open Questions
