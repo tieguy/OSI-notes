@@ -1,4 +1,5 @@
-# Management Education Working Group
+# Management Education Working Group 
+# [DRAFT PROPOSAL]
 ## Rationale
 Mainstream management education is only superficially engaging with the evolution of successful free/libre/open source software development methodologies. Widely used educational materials — such as the PMP (Project Management Professional) and PRINCE2 (Projects in Controlled Environments, v.2) certifications — do not effectively address open source issues, including ethics, methods, processes, governance, HR management, corporate strategy, law, and financing.
 
@@ -13,7 +14,7 @@ The primary goal of this working group would be to extend and refine an existing
 
 ## Deliverables, Milestones, and Timelines
 
-The goal of this project is to extend and improve an existing free/libre/open project management syllabus, and publish the resulting document(s) on opensource.org.
+The goal of this working group is to extend and improve an existing free/libre/open project management syllabus, and publish the resulting document(s) on opensource.org.
 
 All content deliverables below will be licensed under (at least) a CC BY-SA license. Unless otherwise noted, the contractor is responsible for fulfilling the deliverables within the specified timeline.
 
@@ -73,3 +74,4 @@ This list is possible changes that could be made to the syllabus, for example pu
 * Create a short evocative name for this syllabus
 
 ## Open Questions
+* ?
